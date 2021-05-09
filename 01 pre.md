@@ -1,4 +1,4 @@
-added by chojaeseong for pull request -> author가 다시 main에서 수정
+added by chojaeseong for pull request -> author가 다시 main에서 수정 -> collaborator가 되어서 쓰기권한 생김 
 
 ## 예진
 
