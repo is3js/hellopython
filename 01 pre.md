@@ -1,4 +1,4 @@
-added by chojaeseong for pull request
+added by chojaeseong for pull request -> author가 다시 main에서 수정
 
 ## 예진
 
